@@ -1,0 +1,4 @@
+{
+  "name": "TypeScript Node",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:latest"
+}
